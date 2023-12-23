@@ -34,9 +34,7 @@
   padding: 12.81rem 0 0 8.75rem;
 }
 
-.logo {
-  width: 4.83331rem;
-}
+
 
 .content__one__wrapper h2 {
   color: var(--CL-Black);
@@ -403,6 +401,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 0.88rem 1.25rem 0.75rem 1.25rem;
+  }
+
+  .logo {
+    width: 4.83331rem;
   }
 
   .nav__icon__wrapper h3 {
